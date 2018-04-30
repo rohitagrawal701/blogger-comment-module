@@ -16,7 +16,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * This class contain Util method used in vitricon application.
+ * This class contain Util method.
  *
  * @author Rohit
  */
